@@ -1,7 +1,7 @@
-Bash-    wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
+Bash:-    wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
 
 
-Verify the file -
+Verify the file:-
 # Check file size (should be ~1KB)
 ls -lh coco.names
 
@@ -9,7 +9,7 @@ ls -lh coco.names
 head -n 10 coco.names
 
 
-  Expected output:
+Expected output:-
 person
 bicycle
 car

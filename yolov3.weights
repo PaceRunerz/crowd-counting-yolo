@@ -1,0 +1,5 @@
+wget https://pjreddie.com/media/files/yolov3.weights
+
+OR
+
+wget https://github.com/pjreddie/darknet/releases/download/yolov3/yolov3.weights

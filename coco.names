@@ -1,0 +1,22 @@
+Bash-    wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
+
+
+Verify the file -
+# Check file size (should be ~1KB)
+ls -lh coco.names
+
+# View first few classes (optional)
+head -n 10 coco.names
+
+
+  Expected output:
+person
+bicycle
+car
+motorbike
+aeroplane
+bus
+train
+truck
+boat
+traffic light

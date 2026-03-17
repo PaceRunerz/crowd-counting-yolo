@@ -7,7 +7,7 @@ ls -lh coco.names
 
 # View first few classes (optional)
 head -n 10 coco.names
- khbkhb
+ khbkh
 
 Expected output:-
 person

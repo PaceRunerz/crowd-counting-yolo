@@ -9,4 +9,4 @@ Verification-
 # Check file size (should be ~237MB)
 ls -lh yolov3.weights
 
-kjbi
+kj

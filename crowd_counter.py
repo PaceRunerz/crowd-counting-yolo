@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt   jhvbljhbl
+import matplotlib.pyplot as plt   jhvbljhb
 from collections import deque
 import sqlite3
 import time
